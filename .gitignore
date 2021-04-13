@@ -25,6 +25,7 @@ yarn-error.log*
 # 기타 파일
 *.jar
 *.log
+.gitignore
 
 # 경로 git x
 [bB]uild/
